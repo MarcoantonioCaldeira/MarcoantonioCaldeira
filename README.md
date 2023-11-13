@@ -1,16 +1,31 @@
-### Hi there 👋
+### Olá, meu nome é Marco Antonio 👋
+**Sou Desenvolvedor Web Full-Stack. Atualmente
+estou cursando Tecnologia em Sistemas para a internet
+no IFSP. Sou apaixonado por tecnologia e busco estar em
+constante evolução, sempre criando soluções inovadoras
+e que atendam as necessidades das pessoas. Gosto de me manter sempre atualizado com as principais Linguagens e Frameworks do mercado.**
 
-<!--
-**MarcoantonioCaldeira/MarcoantonioCaldeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👨🏻‍💻  **Desenvolvedor FullStack - Internship** na empresa **T.I Gestor Software LTDA EPP**
+- 💻  **Atualmente focado em:**
+<div>
+ <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> 
+ <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" /> 
+ <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+ <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+ <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />      
+ <img width="45" heigth="30" src="https://blog.kakaocdn.net/dn/bJnCEB/btrwJwIaH3z/K0E3JkariSbVpxDywoWw11/img.png" />
+ <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />          
+ <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 📝 **Me desenvolvendo:**
+ <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+          
+
+</div>
+
+          
+          
+           
