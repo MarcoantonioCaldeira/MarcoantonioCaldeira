@@ -1,6 +1,6 @@
 ### Olá, meu nome é Marco Antonio 👋
 Sou Desenvolvedor Web Full-Stack. Atualmente
-estou cursando Tecnologia em Sistemas para a internet
+estou cursando Sistemas para a internet
 no IFSP. Sou apaixonado por tecnologia e busco estar em
 constante evolução, sempre criando soluções inovadoras
 e que atendam as necessidades das pessoas. Gosto de me manter sempre atualizado com as principais Linguagens e Frameworks do mercado.
