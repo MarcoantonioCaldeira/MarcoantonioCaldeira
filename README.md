@@ -1,12 +1,8 @@
 ### Olá, meu nome é Marco Antonio 👋
-Sou Desenvolvedor Web Full-Stack. Atualmente
-estou cursando Sistemas para a internet
-no IFSP. Sou apaixonado por tecnologia e busco estar em
-constante evolução, sempre criando soluções inovadoras
+Sou Desenvolvedor Web Full-Stack. Em 2018 conclui um curso técnico em Informática no IFSP, o que pode me dar uma boa base sólida 
+em programação no geral. Agora para expandir ainda mais os meus conhecimentos estou fazendo uma graduação em Sistemas para a Internet na mesma instituição.
+Sou apaixonado por tecnologia e busco estar em constante evolução, sempre criando soluções inovadoras
 e que atendam as necessidades das pessoas. Gosto de me manter sempre atualizado com as principais Linguagens e Frameworks do mercado.
-
-Em 2018 conclui um curso técnico em Informática no IFSP, o que pode me dar uma boa base sólida em programação no geral. Agora para expandir
-ainda mais os meus conhecimentos estou fazendo uma graduação em Sistemas para a Internet na mesma instituição.
 
 <br>
 
