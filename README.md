@@ -1,14 +1,15 @@
-### Olá, meu nome é Marco Antonio 👋
-Sou um Desenvolvedor Web Full-Stack. Em 2018, concluí um curso técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP), proporcionando-me uma sólida base em programação de forma abrangente. Atualmente, estou expandindo ainda mais meus conhecimentos por meio de uma graduação em Sistemas para a Internet, também no IFSP, visando aprofundar minha compreensão e expertise na área.
+### Hello, my name is Marco Antonio  👋
+I am a Full-Stack Web Developer. In 2018, I completed a technical course in IT at the Federal Institute of Education, Science and Technology of São Paulo (IFSP), providing me with a solid foundation in programming in a comprehensive way. Currently, I am further expanding my knowledge through a degree in Internet Systems, also at IFSP, developing my understanding and expertise in the area.
 
-Minha paixão pela tecnologia é evidente, e estou comprometido com uma trajetória de constante evolução. Busco criar soluções inovadoras que atendam às necessidades das pessoas de maneira eficaz. Mantenho-me atualizado com as principais linguagens de programação e frameworks do mercado, garantindo que minha abordagem seja sempre alinhada com as tendências e demandas mais recentes da indústria.
+My passion for technology is evident, and I am committed to a path of constant evolution. I seek to create innovative solutions that meet people's needs effectively. Keep me up to date with the main programming languages ​​and frameworks on the market, ensuring that my approach is always aligned with the latest industry trends and demands.
+
 
 <br>
 
-**Informações Gerais**
+**General information**
 
-- 👨🏻‍💻  **Desenvolvedor FullStack - Internship** na empresa **T.I Gestor Software LTDA EPP**
-- 💻  **Atualmente focado em:**
+- 👨🏻‍💻  **FullStack Developer - Internship at T.I Gestor Software LTDA EPP**
+- 💻  **Currently focused on:**
 <div>
  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> 
  <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" /> 
@@ -20,7 +21,7 @@ Minha paixão pela tecnologia é evidente, e estou comprometido com uma trajetó
  <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />          
  <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
- - 📝 **Me desenvolvendo:**
+ - 📝 **Me developing:**
  <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img width="45" heigth="30" src="https://icon.icepanel.io/Technology/svg/Ruby-on-Rails.svg" />
  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
