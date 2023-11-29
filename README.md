@@ -1,4 +1,4 @@
-### Hello, my name is Marco Antonio  👋
+### Hey, my name is Marco Antonio  👋
 I am a Full-Stack Web Developer. In 2018, I completed a technical course in IT at the Federal Institute of Education, Science and Technology of São Paulo (IFSP), providing me with a solid foundation in programming in a comprehensive way. Currently, I am further expanding my knowledge through a degree in Internet Systems, also at IFSP, developing my understanding and expertise in the area.
 
 My passion for technology is evident, and I am committed to a path of constant evolution. I seek to create innovative solutions that meet people's needs effectively. Keep me up to date with the main programming languages ​​and frameworks on the market, ensuring that my approach is always aligned with the latest industry trends and demands.
