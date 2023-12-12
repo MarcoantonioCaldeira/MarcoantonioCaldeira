@@ -23,7 +23,6 @@ My passion for technology is evident, and I am committed to a path of constant e
 
  - 📝 **Me developing:**
  <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
- <img width="45" heigth="30" src="https://icon.icepanel.io/Technology/svg/Ruby-on-Rails.svg" />
  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
           
 
