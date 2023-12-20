@@ -16,14 +16,11 @@ My passion for technology is evident, and I am committed to a path of constant e
  <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
  <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
  <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />      
  <img width="45" heigth="30" src="https://blog.kakaocdn.net/dn/bJnCEB/btrwJwIaH3z/K0E3JkariSbVpxDywoWw11/img.png" />
  <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />          
  <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-
- - 📝 **Me developing:**
- <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
- <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
           
 
 </div>
