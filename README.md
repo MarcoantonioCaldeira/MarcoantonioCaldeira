@@ -8,7 +8,7 @@ My passion for technology is evident, and I am committed to a path of constant e
 
 **General information**
 
-- 👨🏻‍💻  **FullStack Developer - Internship at T.I Gestor Software LTDA EPP**
+- 👨🏻‍💻  **FullStack Developer - at T.I Gestor Software LTDA EPP**
 - 💻  **Currently focused on:**
 <div>
  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> 
