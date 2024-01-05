@@ -1,14 +1,14 @@
-### Hi, my name is Marco Antonio  👋
-I am a Full-Stack Web Developer. In 2018, I completed a technical course in IT at the Federal Institute of Education, Science and Technology of São Paulo (IFSP), providing me with a solid foundation in programming in a comprehensive way. Currently, I am further expanding my knowledge through a degree in Internet Systems, also at IFSP, developing my understanding and expertise in the area.
+### Olá, meu nome é Marco Antonio 👋
+Sou um desenvolvedor Web Full Stack. Em 2018, concluí o curso técnico em TI no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP), proporcionando-me uma base sólida em programação de forma abrangente. Atualmente, estou ampliando ainda mais meus conhecimentos através da graduação em Sistemas para Internet, também no IFSP, desenvolvendo meu entendimento e expertise na área.
 
-My passion for technology is evident, and I am committed to a path of constant evolution. I seek to create innovative solutions that meet people's needs effectively. Keep me up to date with the main programming languages ​​and frameworks on the market, ensuring that my approach is always aligned with the latest industry trends and demands.
+Minha paixão por tecnologia é evidente e estou comprometido com um caminho de constante evolução. Procuro criar soluções inovadoras que atendam de forma eficaz às necessidades das pessoas. Manter-me atualizado sobre as principais linguagens de programação e frameworks do mercado, garantindo que minha abordagem esteja sempre alinhada com as últimas tendências e demandas do setor.
 
 
 <br>
 
 **General information**
 
-- 💻  **Currently focused on:**
+- 💻  **Atualmente focado em:**
 <div>
  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> 
  <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" /> 
