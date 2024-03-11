@@ -10,6 +10,7 @@ Minha paixão por tecnologia é evidente e estou comprometido com um caminho de 
 
 - 💻  **Atualmente focado em:**
 <div>
+ <img  width="50" heigth="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Vite-Dark.svg" />
  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> 
  <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" /> 
  <img width="45" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
