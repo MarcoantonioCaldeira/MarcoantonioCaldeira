@@ -51,10 +51,5 @@ Atualmente, sigo ampliando meus conhecimentos na graduação em **Sistemas para 
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white) 
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  
 
-### Ferramentas e Metodologias  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white) 
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logoColor=white) 
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)  
 
            
