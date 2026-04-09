@@ -1,19 +1,14 @@
 # 👋 Olá, meu nome é Marco Antonio  
-
 Sou um **Desenvolvedor Web Full Stack** apaixonado por tecnologia e aprendizado contínuo.  
 Minha jornada começou em 2018 com o curso técnico em Informática no **IFSP**, onde construí uma base sólida em programação.  
 Atualmente, sigo ampliando meus conhecimentos na graduação em **Sistemas para Internet (IFSP)** e desenvolvendo experiência prática em diferentes stacks.  
-
 ---
-
 ## 🚀 Sobre mim  
 - 💻 Desenvolvedor **Full Stack** (Frontend + Backend)  
 - 📚 Sempre estudando novas tecnologias e boas práticas de desenvolvimento  
 - ⚡ Interesse em **arquitetura de software**, **cloud computing** e **boas práticas (SOLID, Clean Code)**  
 - 🌍 Aberto a colaborar em projetos open source e freelas  
-
 ---
-
 ## 🛠️ Tecnologias e Ferramentas  
 
 ### Frontend  
@@ -48,6 +43,11 @@ Atualmente, sigo ampliando meus conhecimentos na graduação em **Sistemas para 
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) 
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) 
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)  
+
+### IDEs & Editores  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) 
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 
 
