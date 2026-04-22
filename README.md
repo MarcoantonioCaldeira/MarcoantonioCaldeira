@@ -1,25 +1,27 @@
-# 👋 Olá, meu nome é Marco Antonio  
-Sou um **Desenvolvedor Web Full Stack** apaixonado por tecnologia e aprendizado contínuo.  
-Minha jornada começou em 2018 com o curso técnico em Informática no **IFSP**, onde construí uma base sólida em programação.  
-Atualmente, sigo ampliando meus conhecimentos na graduação em **Sistemas para Internet (IFSP)** e desenvolvendo experiência prática em diferentes stacks.  
----
-## 🚀 Sobre mim  
-- 💻 Desenvolvedor **Full Stack** (Frontend + Backend)  
-- 📚 Sempre estudando novas tecnologias e boas práticas de desenvolvimento  
-- ⚡ Interesse em **arquitetura de software**, **cloud computing** e **boas práticas (SOLID, Clean Code)**  
-- 🌍 Aberto a colaborar em projetos open source e freelas  
----
-## 🛠️ Tecnologias e Ferramentas  
+# 👋 Hi, I'm Marco Antonio
+I'm a **Full Stack Developer** with solid experience in enterprise systems, working across both frontend and backend.  
+My journey started in 2018 with a technical degree in Computer Science at **IFSP**, where I built a strong foundation in programming.  
+I'm currently pursuing a degree in **Computer Science at Centro Universitário FMU | FIAM-FAAM** and continuously expanding my skills across different stacks.
 
-### Frontend  
+---
+
+## 🚀 About me
+- 💻 **Full Stack Developer** — Java, Spring Boot, Vue.js, Nuxt.js, .NET Core
+- ☁️ Currently pursuing the **AWS Developer Associate (DVA-C02)** certification
+- ⚡ Interested in **software architecture**, **cloud computing** and engineering best practices **(SOLID, Clean Code, REST)**
+- 🌍 Open to collaborating on open source projects and freelance opportunities
+
+---
+
+## 🛠️ Technologies & Tools
+### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) 
 ![NuxtJS](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) 
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=AEDDFF)  
-
-### Backend  
+### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) 
@@ -31,24 +33,20 @@ Atualmente, sigo ampliando meus conhecimentos na graduação em **Sistemas para 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) 
 ![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat-square&logoColor=white) 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)  
-
-### Banco de Dados  
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)  
-
-### DevOps & Cloud  
+### DevOps & Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) 
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) 
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)  
-
-### IDEs & Editores  
+### IDEs & Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) 
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
 
 
            
