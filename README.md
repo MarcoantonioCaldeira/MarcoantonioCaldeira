@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Marco Antonio
-I'm a **Full Stack Developer** with solid experience in enterprise systems, working across both frontend and backend.  
+I'm a **Full Stack Developer** with solid experience in enterprise systems, working across both backend and frontend.  
 My journey started in 2018 with a technical degree in Computer Science at **IFSP**, where I built a strong foundation in programming.  
 I'm currently pursuing a degree in **Computer Science at Centro Universitário FMU | FIAM-FAAM** and continuously expanding my skills across different stacks.
 
