@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Marco Antonio
-I'm a **Full Stack Developer** with solid experience in enterprise systems, working across both backend and frontend.  
-My journey started in 2018 with a technical degree in Computer Science at **IFSP**, where I built a strong foundation in programming.  
-I'm currently pursuing a degree in **Computer Science at Centro Universitário FMU | FIAM-FAAM** and continuously expanding my skills across different stacks.
-
+Full Stack Developer with experience in enterprise systems, working across backend and frontend.
+I've been building and maintaining web systems since 2022 — from legacy Java EE systems to modern REST APIs and Vue.js frontends. Currently working as a **Java Developer at Holos Consult**, focused on system evolution, SQL optimization, and clean architecture.
+My main stack includes **Java, Spring Boot, Vue.js, PostgreSQL and SQL Server**, with hands-on experience applying **SOLID principles, Design Patterns and MVC** in production environments.
+Always learning — currently diving deeper into **AWS, Docker and Kotlin**.
 ---
 
 ## 🚀 About me
