@@ -7,7 +7,6 @@ I'm currently pursuing a degree in **Computer Science at Centro Universitário F
 
 ## 🚀 About me
 - 💻 **Full Stack Developer** — Java, Spring Boot, Vue.js, Nuxt.js, .NET Core
-- ☁️ Currently pursuing the **AWS Developer Associate (DVA-C02)** certification
 - ⚡ Interested in **software architecture**, **cloud computing** and engineering best practices **(SOLID, Clean Code, REST)**
 - 🌍 Open to collaborating on open source projects and freelance opportunities
 
