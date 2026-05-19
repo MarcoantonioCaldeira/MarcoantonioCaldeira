@@ -10,7 +10,7 @@ My main stack includes **Java, Spring Boot, Vue.js, PostgreSQL and SQL Server**,
 
 ## 🚀 About me
 
-- 💻 **Full Stack Developer** — Java, Spring Boot, Vue.js, Nuxt.js, .NET Core
+- 💻 **Full Stack Developer** — Java, Spring Boot, Angular, Vue.js
 - ⚡ Interested in **software architecture**, **cloud computing** and engineering best practices **(SOLID, Clean Code, REST)**
 - 🌍 Open to collaborating on open source projects and freelance opportunities
 
